@@ -401,3 +401,75 @@ body{
     background:  #c40094;
     color: #fff;
 }
+
+
+/* Responsiveness */
+
+@media screen and (max-width: 768px) {
+    /* Adjustments for screens smaller than 768px width */
+    .header {
+        padding: 10px;
+    }
+
+    .logo {
+        font-size: 20px;
+    }
+
+    .navbar a {
+        font-size: 14px;
+        margin-left: 15px;
+    }
+
+    /* Add more adjustments as needed */
+}
+
+@media screen and (max-width: 576px) {
+    /* Adjustments for screens smaller than 576px width */
+    .header {
+        padding: 5px;
+    }
+
+    .logo {
+        font-size: 16px;
+    }
+
+    .navbar a {
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    /* Add more adjustments as needed */
+}
+
+/* Add more media queries and adjustments as needed */
+
+ 
+   
+
+
+
+  
+    
+  
+   
+
+
+
+   
+ 
+  
+
+
+ 
+    
+   
+ 
+   
+    
+   
+    color: #c40094;
+}
+.buttons button:nth-child(2):hover{
+    background:  #c40094;
+    color: #fff;
+}
